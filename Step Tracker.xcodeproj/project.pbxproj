@@ -20,6 +20,7 @@
 		EE59B98F2DAEE8CC0038A404 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE59B98E2DAEE8CC0038A404 /* DashboardView.swift */; };
 		EE59B9912DAEE8CD0038A404 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE59B9902DAEE8CD0038A404 /* Assets.xcassets */; };
 		EE59B9942DAEE8CD0038A404 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE59B9932DAEE8CD0038A404 /* Preview Assets.xcassets */; };
+		EEC55FDE2DDE7F2C002F01D7 /* StepPieChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC55FDD2DDE7F2C002F01D7 /* StepPieChartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		EE59B98E2DAEE8CC0038A404 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
 		EE59B9902DAEE8CD0038A404 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE59B9932DAEE8CD0038A404 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EEC55FDD2DDE7F2C002F01D7 /* StepPieChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepPieChartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 			isa = PBXGroup;
 			children = (
 				EE5416022DC52D970011E769 /* StepBarChartView.swift */,
+				EEC55FDD2DDE7F2C002F01D7 /* StepPieChartView.swift */,
 				EE5416082DDD19800011E769 /* ChartMath.swift */,
 				EE54160A2DDD19C90011E769 /* ChartDataTypes.swift */,
 			);
@@ -214,6 +217,7 @@
 			files = (
 				EE3D7BAE2DB2D0D5006402DB /* HealthDataListView.swift in Sources */,
 				EE59B98F2DAEE8CC0038A404 /* DashboardView.swift in Sources */,
+				EEC55FDE2DDE7F2C002F01D7 /* StepPieChartView.swift in Sources */,
 				EE59B98D2DAEE8CC0038A404 /* Step_TrackerApp.swift in Sources */,
 				EE5416032DC52D970011E769 /* StepBarChartView.swift in Sources */,
 				EE3D7BB82DB84FF2006402DB /* HealthKitManager.swift in Sources */,
